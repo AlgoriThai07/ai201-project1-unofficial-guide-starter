@@ -9,27 +9,32 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+<!-- What topic or category of knowledge does your system cover?
+     Why is this knowledge valuable, and why is it hard to find through official channels?
+     Example: "Student reviews of CS professors at [university] — useful because official
+     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+Course and professor reviews for CS at UIC - useful because official course descriptions don't reflect teaching style, exam difficulty, or workload. This is valuable for students who want to know what to expect from a course or professor.
 ---
 
-## Documents
+## Document Sources
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
+<!-- List every source you collected documents from.
+     Be specific: include URLs, subreddit names, forum thread titles, or file names.
+     Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Type | URL or file path |
+|---|--------|------|-----------------|
+| 1 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/3048406 |
+| 2 | UIC Reddit | website | https://www.reddit.com/r/uichicago/comments/1fh57aq/how_can_i_be_successful_in_cs_251/ |
+| 3 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/971500 |
+| 4 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/2283856 |
+| 5 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/2628078 |
+| 6 | UIC Reddit | website | https://www.reddit.com/r/uichicago/comments/1f9ydi1/honest_advice_for_taking_cs_211_cs_251_cs_261_in/ |
+| 7 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/2417720 |
+| 8 | UIC Reddit | website | https://www.reddit.com/r/uichicago/comments/1gps8qg/cs_301cs_277_cs_261/ |
+| 9 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/2436993 |
+| 10 | UIC Reddit | website | https://www.reddit.com/r/uichicago/comments/1cfqye1/comment/l1t7q4o/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1 |
 
 ---
 

@@ -14,6 +14,7 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+Course and professor reviews for UIC
 ---
 
 ## Document Sources
@@ -24,16 +25,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/3048406 |
+| 2 | UIC Reddit | website | https://www.reddit.com/r/uichicago/comments/1fh57aq/how_can_i_be_successful_in_cs_251/ |
+| 3 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/971500 |
+| 4 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/2283856 |
+| 5 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/2628078 |
+| 6 | UIC Reddit | website | https://www.reddit.com/r/uichicago/comments/1f9ydi1/honest_advice_for_taking_cs_211_cs_251_cs_261_in/ |
+| 7 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/2417720 |
+| 8 | UIC Reddit | website | https://www.reddit.com/r/uichicago/comments/1gps8qg/cs_301cs_277_cs_261/ |
+| 9 | RateMyProfessors | website | https://www.ratemyprofessors.com/professor/2436993 |
+| 10 | UIC Reddit | website | https://www.reddit.com/r/uichicago/comments/1cfqye1/comment/l1t7q4o/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1 |
 
 ---
 
