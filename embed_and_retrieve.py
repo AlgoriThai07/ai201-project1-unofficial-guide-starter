@@ -156,25 +156,26 @@ def retrieve(query, k=5):
 
 # ----------------- Evaluation Test -----------------
 
-test_queries = [
-    "What language will we use in CS 251?",
-    "What is professor Ayala like?",
-    "How do students feel about professor McCarty?"
-]
+if __name__ == "__main__":
+    test_queries = [
+        "What language will we use in CS 251?",
+        "What is professor Ayala like?",
+        "How do students feel about professor McCarty?"
+    ]
 
-print("\n" + "="*50)
-print("RUNNING RETRIEVAL EVALUATION TESTS")
-print("="*50)
+    print("\n" + "="*50)
+    print("RUNNING RETRIEVAL EVALUATION TESTS")
+    print("="*50)
 
-for q_idx, query in enumerate(test_queries):
-    print(f"\nQuery #{q_idx+1}: '{query}'")
-    results = retrieve(query, k=3)
-    
-    for r_idx, res in enumerate(results):
-        print(f"\n  Match {r_idx+1}:")
-        print(f"    Source: {res['metadata'].get('source', 'Unknown')}")
-        print(f"    Type: {res['metadata'].get('type', 'Unknown')}")
-        print(f"    Cosine Distance: {res['distance']:.4f}")
-        print(f"    RRF Score: {res['rrf_score']:.6f}")
-        print(f"    Content:\n      {res['text']}")
-        print("    " + "-"*30)
+    for q_idx, query in enumerate(test_queries):
+        print(f"\nQuery #{q_idx+1}: '{query}'")
+        results = retrieve(query, k=3)
+        
+        for r_idx, res in enumerate(results):
+            print(f"\n  Match {r_idx+1}:")
+            print(f"    Source: {res['metadata'].get('source', 'Unknown')}")
+            print(f"    Type: {res['metadata'].get('type', 'Unknown')}")
+            print(f"    Cosine Distance: {res['distance']:.4f}")
+            print(f"    RRF Score: {res['rrf_score']:.6f}")
+            print(f"    Content:\n      {res['text']}")
+            print("    " + "-"*30)
