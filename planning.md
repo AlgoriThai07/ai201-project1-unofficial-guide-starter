@@ -46,10 +46,13 @@ Course and professor reviews for CS at UIC - useful because official course desc
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+Variable, targeting each comment as a single chunk (some 500-600 characters) but could split longer comments into multiple chunks if they are too long. Prepend context metadata such as professor name, professor ID, rating, and course name to each chunk for (Rate My Professors sources). For UIC Reddit sources, prepend the subreddit name, thread title, and author to each chunk.
 
 **Overlap:**
+0 characters
 
 **Reasoning:**
+Since reviews and comments are short, self-contained, and the metadata (professor name, professor ID, rating, course name for Rate My Professors sources; subreddit name, thread title, author for UIC Reddit sources) is prepended to each chunk, there is no need for overlap. The chunks are already semantically rich due to the metadata and the nature of the review text.
 
 ---
 
@@ -62,11 +65,16 @@ Course and professor reviews for CS at UIC - useful because official course desc
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
+5
+
+**Strategy:**
+I would implement a hybrid search strategy that combines both vector search and keyword search. Vector search would be used to find chunks that are semantically similar to the query, while keyword search would be used to find chunks that contain the query keywords (e.g. CS 251, professor name, etc.). The two search results would then be combined to produce the final result.
 
 **Production tradeoff reflection:**
-
+If cost wasn't a constraint in a production system, I would consider using a model like OpenAI's `text-embedding-3-small` instead of `all-MiniLM-L6-v2`. This is because it has a larger context window, which would allow me to capture the entire text of longer documents without having to split them into smaller chunks. Additionally, it has been shown to perform better on a wider range of tasks, including those involving domain-specific text.
 ---
 
 ## Evaluation Plan
@@ -78,11 +86,11 @@ Course and professor reviews for CS at UIC - useful because official course desc
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What language will we use in CS 251?| C++|
+| 2 | What is professor Ayala like?| Average rating 4.4, nice, sweet, chill professor|
+| 3 | Is CS 251 hard?| It is challenging |
+| 4 | How do students feel about professor McCarty?| Good professor for logic class but sometimes has grading errors  |
+| 5 | How do students feel about professor DasGupta?| One of the best professor, easy exams, easy to get an A|
 
 ---
 
@@ -92,9 +100,9 @@ Course and professor reviews for CS at UIC - useful because official course desc
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Reddit comments might have slang/acronyms or off topic conversations that may be misread as related to a professor or course.
 
-2.
+2. Rate My Professors reviews are sometimes too sentimental and short, which might lead to retrieval errors without professor names if not properly chunked with metadata.
 
 ---
 
@@ -105,6 +113,18 @@ Course and professor reviews for CS at UIC - useful because official course desc
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+```mermaid
+graph TD
+    A[1. Document Ingestion] -->|JSON & MD Parser| B[2. Chunking]
+    B -->|Prepend Metadata & Custom Splitter| C[3. Embedding & Vector Store]
+    C -->|all-MiniLM-L6-v2 & ChromaDB| D1[4a. Vector Search]
+    B -->|Keyword Path: BM25| D2[4b. Keyword Search]
+    D1 -->|Cosine Similarity, Top-K = 5| M[Merge & Score: Top-K = 5]
+    D2 -->|BM25| M
+    M --> E[5. Generation]
+    E -->|Grounded LLM Prompt| F[User Interface / Output]
+```
 
 ---
 
@@ -119,6 +139,9 @@ Course and professor reviews for CS at UIC - useful because official course desc
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+
+I will give Claude my Chunking Strategy section and ask it to implement chunk_text()
+with my specified chunk size and overlap. I will also give Claude my Architecture section and ask it to implement the RAG pipeline. 
 
 **Milestone 3 — Ingestion and chunking:**
 
