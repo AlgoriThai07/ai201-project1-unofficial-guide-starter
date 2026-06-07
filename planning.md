@@ -68,7 +68,7 @@ Since reviews and comments are short, self-contained, and the metadata (professo
 all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
-5
+5 since I have a relatively small number of chunks (each chunk is a single comment or review). This is the right balance between low latency and enough context to answer most questions.
 
 **Strategy:**
 I would implement a hybrid search strategy that combines both vector search and keyword search. Vector search would be used to find chunks that are semantically similar to the query, while keyword search would be used to find chunks that contain the query keywords (e.g. CS 251, professor name, etc.). The two search results would then be combined to produce the final result.
@@ -89,7 +89,7 @@ If cost wasn't a constraint in a production system, I would consider using a mod
 | 1 | What language will we use in CS 251?| C++|
 | 2 | What is professor Ayala like?| Average rating 4.4, nice, sweet, chill professor|
 | 3 | Is CS 251 hard?| It is challenging |
-| 4 | How do students feel about professor McCarty?| Good professor for logic class but sometimes has grading errors  |
+| 4 | How do students feel about professor McCarty?| Good professor for logic class but sometimes has grading errors |
 | 5 | How do students feel about professor DasGupta?| One of the best professor, easy exams, easy to get an A|
 
 ---
