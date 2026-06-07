@@ -1,0 +1,1115 @@
+{
+  "avgDifficulty": 2.9,
+  "avgRating": 4.9,
+  "department": "Computer Science",
+  "firstName": "Gonzalo",
+  "lastName": "Bello Lander",
+  "numRatings": 126,
+  "ratings": {
+    "edges": [
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Professor Bello is top tier. Run don't walk to enroll in his lectures, seats fill up quickly! His lectures are throughly detailed and he is always available to help students. He's super knowledgeable and truly cares to help others. ",
+          "date": "2026-05-31 23:19:35 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "One of the best professors I've had. Lectures are clear, engaging, and well-organized. Makes difficult material feel manageable. Highly recommend.",
+          "date": "2026-02-02 21:32:52 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He's SUCHHHH a good professor! You still have to put in work and understand the material of course but I've never had a class where I don't have to teach myself. He genuinely will help you understand the concepts. He's AMAZING!!! Take him!",
+          "date": "2025-12-09 16:43:15 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS111",
+          "comment": "As long as you do all the homework and quizzes. This class will be easy.",
+          "date": "2025-12-05 19:20:25 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A-",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Listen to the glaze. He's lowkey the goat",
+          "date": "2025-11-25 19:33:21 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Professor Bello is an experience that transcends the standard metrics of university education. He is not merely a professor; he is an academic luminary, a virtuoso of computer science education, and without a single hyperbole, the greatest pedagogical asset on the UIC campus. Professor Bello is, in a word, superlative.\n\n",
+          "date": "2025-11-24 20:52:53 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "It is with an immense and profound sense of duty, coupled with uncontainable intellectual admiration, that I undertake the solemn task of composing this review for Professor Bello. To merely call this a \"review\" feels a disservice, akin to describing the Mona Lisa as a competent portrait or the Grand Canyon as a notable ditch.  5/5. goat",
+          "date": "2025-11-24 20:51:14 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He is the BEST! Literally the goat. His reviews speak for itself... one of the only professor I've decided to review.",
+          "date": "2025-10-22 03:12:51 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Perfect teacher, doesn't over complect concepts. ",
+          "date": "2025-04-24 03:23:01 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS111",
+          "comment": "You want to be successful in class? Take him.\nYou will miss his lectures with carefully annotated content before every exam in your following courses. Took him twice and among that period, I can't wait to get the chance to take him again. Genuinely is a guru in whatever he's teaching, and cares a lot about his students.",
+          "date": "2025-03-30 22:19:23 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS111",
+          "comment": "He is the best among the best! Period!",
+          "date": "2025-03-30 22:12:33 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS111",
+          "comment": "He is good professor and what ever he tought was very easy to learn.",
+          "date": "2025-02-10 20:47:49 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151CS301",
+          "comment": "The only professor at UIC's CS department worthy of the title of professor. An educator who prepares notes and examples, recaps content, responds to emails and forums, has clear homework assignments and relevant practice problems. Best professor you can ever take. Every other \"professor\" should be ashamed in comparison to this gem.",
+          "date": "2025-01-20 23:47:01 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS111",
+          "comment": "First semester at UIC and got lucky to study CS111 with Professor Bello. He is an amazing Prof with respected characteristics. Amazing lectures were driven, he is caring about his students, their success and almost always available on Zybooks & during his Office hours. He is trying to give out the most. Would give million stars if I could! GOATT!!!",
+          "date": "2025-01-20 16:17:00 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello is amazing! His lectures are super engaging, and he's always happy to help with any questions. Definitely take advantage of Piazza and office hours - they're a game-changer. Unstuck study was also clutch for prepping.",
+          "date": "2025-01-03 06:52:01 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS111",
+          "comment": "Didn't always finish the lecture but it's just 111 so it's easy to refer to the zyBooks/lecture slides. Fell behind on course schedule too but wasn't a big deal. Other than that, he's a REALLY nice guy who genuinely wants you to succeed. Often held extra office hours for projects. Super easy grader too. Just an amazing human being overall tbh",
+          "date": "2024-11-26 15:13:55 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Truly wants everyone to succeed in his classes. Very good at explaining concepts and making sure everyone understands them. Will always be able to help you if you're truly lost on a topic. Also very generous with extra credit.",
+          "date": "2024-05-07 22:46:21 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Overall, he's very good at giving lectures, and his notes are extremely helpful, and it is easy to understand the lecture material. He's a very kind professor and is very understanding and helpful when asking questions.",
+          "date": "2024-05-07 05:49:37 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Good prof",
+          "date": "2024-04-28 23:27:40 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "He's the GOAT, really good at what he's doing.",
+          "date": "2024-04-28 02:59:26 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "Amazing professor who does not skip steps and always redoes exercises from the last lecture so you can remember the material. Also, he is very active in Piazza, so if you have any questions, he will surely help you. The bad side is that he is too technical; you must learn the mathematical language. For labs, most of the time you will need notes",
+          "date": "2024-03-29 22:16:40 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Absolutely amazing professor, if you manage to go to lectures, take good notes, and attend office hours, he will be extremely helpful and is very conscious of the student. He manages to organize his lectures to where everything you hear in that class is jam packed with useful information. You 100% should take him for this course.",
+          "date": "2024-02-19 16:31:24 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "I wish he taught ECE courses too. I had him for CS-151 and he was the best professor I've ever taken. Professor if you're reading this you're amazing!",
+          "date": "2024-02-02 02:19:02 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Amazing professor! Have been hearing about him since my first semester, Im glad I got to take one class with him! He is smart, has great notes, explanation and actually cares about the students!",
+          "date": "2024-01-11 04:05:15 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "professor Bello is the best professor I've ever had, truly a kind-hearted man who cared about all his students. any questions you have or anything you have on your mind you can ask him and he will be more than happy to answer.  he gives extra credit and explains the material very well. I wish Bello taught all of the cs classes at UIC.",
+          "date": "2024-01-10 16:46:37 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "C",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Bello is the best! 151 was tough for me but he has a lot of office hours/review sessions and he is willing to meet by appointment. He teaches a tough course very clearly. Review his lecture slides while doing the assignments, it will help a lot. ",
+          "date": "2024-01-06 00:12:34 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "He is strict, Forget cheating",
+          "date": "2024-01-04 13:44:52 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A+",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Best of the best.",
+          "date": "2023-12-27 18:18:28 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello is the best professor in the CS department, hands down. His lectures are really good and the lecture notes he uploads on Blackboard are also amazing for studying. He offers plenty of opportunities for extra credit and office hours are highly accessible. Definitely take him whenever possible.",
+          "date": "2023-12-07 15:08:03 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "best cs professor at uic. offers lots of extra credit opportunities at the end of the semester, clearly cares a lot about the subject and will always explain if you have any questions. VERY good lectures, able to explain difficult material in a clear and simple manner. if you have to chance to take him, DO IT.",
+          "date": "2023-12-07 15:07:42 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "awesome teacher, very knowledgeable and enthusiastic about the material (CS 151)",
+          "date": "2023-11-28 12:26:03 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "I loved his way of teaching. He was always to the point and provided perfect examples for the new material we learned. His way of organizing everything on black board like videos and assignments and piazza was very helpful as a student. He always listens to student within reason you can see this in his office hours and during lectures. ",
+          "date": "2023-11-20 18:23:24 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "5/5. Take him if you have the option",
+          "date": "2023-10-25 23:48:39 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Haven't come across a Professor like Prof.Bello. The way he explains the course materials and the slides he prepares are out of this world. He has a lot of homework for his class but those homework prepares you for his exams. He is very approachable and loves to answer questions. I do hope he teaches CS 418 again so I could take it with him",
+          "date": "2023-08-21 05:43:20 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "A great Prof hands down. The lecture slides will help a LOT. The exams cover quite a bit of content, but it is not difficult once you get used to the structure. Prof provides enough resources for you to succeed in this class.",
+          "date": "2023-08-04 05:56:45 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "His lectures are very well organized. The slides are easy to read and he's able to make a complex subject easier to understand as he talks. Although you might not understand everything at every lecture the labs will help you to understand the work. Also office hours are very helpful, I would use them as often as you can. ",
+          "date": "2023-08-01 22:07:37 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Easily the best professor in the entire uic CS department. He makes complicated topics easy to understand and is always willing to help students by going over concepts till they sink in.",
+          "date": "2023-07-30 21:27:24 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151CS301",
+          "comment": "Arguably the best CS professor at UIC. Definitely cares about his students. His homework, labs, lectures, and practice exams are the best example of \"the work you put in directly translating to the results you get back\" on quizzes and exams out of any CS or math class I've ever taken. Provides plenty of extra credit opportunity as well. ",
+          "date": "2023-06-10 14:44:30 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Only professor I had to spend 2.5 hrs of his day to review with us and answer questions.",
+          "date": "2023-05-04 04:52:40 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Professor Bello is real asset to the department. Theoretical Computer Science may be intimidating but with him and his wonderful lectures, it didn't feel that way. Homeworks can be a bit confusing so definitely start at least early. Strong material and guides to succeed throughout this class all you need to do is put in the work for it. Great man.",
+          "date": "2023-01-01 18:35:22 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He's gonna make sure you know the material.",
+          "date": "2022-12-15 06:01:22 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Homework is really hard in this class, don't fret though, his and his TA's office hours really distinguished me from possibly ending with a C like in 151 to an A just by putting in effort. This class is easier than 151 if you show up to lectures and office hours. Gem of a professor, take him for any class. ",
+          "date": "2022-12-12 23:57:19 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "The practice exam is the real exam with just the values swapped. Do the practice exam, set up a community post on piazza for people to volunteer answers (volunteer your own as well, don't just ask - that usually leads to minimal participation). You'll basically have the answer key to the exam. ",
+          "date": "2022-12-02 21:49:33 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "The angel himself! The best professor in the whole department and the whole university. Provides multiple extra credit opportunities and helps in every aspect of the course and outside class. He picks his TAs and ensures that they are the best. This man needs a good raise. His lectures are moderately paced and he ensures to address all questions. ",
+          "date": "2022-11-28 23:31:13 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "There is a lot of material, but he teaches it very well and always stops to answer questions. If something is not clear, he won't move on and leave you confused.",
+          "date": "2022-11-15 17:30:00 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A-",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "OMG!this is literally the best Professor at UIC.He considers each and every student and is very understanding. His teaching style is awesome, grading is not too harsh but perfect, lots of extra credit in class,labs are useful (unlike some other professors who dont know what they are teaching or what their students are going through). He is the best",
+          "date": "2022-11-10 07:34:39 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "If you attend the lectures and do the homework you'll be fine. He does a good job at teaching and tries really hard to make sure his students understand the information. ",
+          "date": "2022-08-07 19:28:02 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "GOOO TOOO LECTURE. lectures are kinda boring but make sense always and are really good. Go to class, and do everything you can to make sure you stay awake in lecture. drink caffeination or snort coffee idc stay awake if u do that you pass, labs are easy hw is hard if u don't go to lecture. Take notes during the lecture. He is a very chill dude tho.",
+          "date": "2022-05-14 05:05:14 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Best professor at UIC. No other professor goes out of their way to put this much effort into their lectures to make sure everyone understands. If you lost go to his office hours and ask, he will re-explain the material until you understand it. Very generous in grading and gives lots of extra credit opportunities to raise your grade",
+          "date": "2022-05-12 02:56:28 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "The one of the best professor that I ever meet",
+          "date": "2022-05-11 22:55:37 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "C",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "I agree that Bello is one of the better teachers in the CS department. My only complaint would be that he puts grades in super slowly, so you don't really know how well you're doing in the course till the end. The class is straightforward as long as you attend lectures and pay attention. Really enjoyed having Bello though. He knows his stuff. ",
+          "date": "2022-05-10 23:35:33 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "If you're reading this and you've seen his overall reviews already, you shouldn't even check the other professors. Just sign up for Bello. He's obviously going to be the best for your success. Nothing can be said that hasn't already been said. Thank us later. ",
+          "date": "2022-05-10 00:04:29 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello is a professor that loves his students, he always offers extra help and extra credit! Furthermore, he's always spending hours with students to assure they succeed. I personally feel that he is the best professor at UIC and I'm sure many students would agree with me! Thanks for reading! ",
+          "date": "2022-05-06 03:07:16 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "He is a really good professor who gives you lots of extra credit, but be careful of the quizzes that come every week. As long as you listen and study in class you will be fine.",
+          "date": "2022-04-07 19:33:45 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A-",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "At first the course seems hard, but this professor makes sure that his lectures are clear and makes sure everyone understands the material.",
+          "date": "2022-04-01 19:31:37 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Very caring professor, always asks in class if everyone understands. 10/10 would take again in a heart beat!",
+          "date": "2022-03-09 18:10:24 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello is the golden standard for profs. His lectures are fast-paced, but the content in them is directly used in HW, labs, and exams. He gives many opportunities to score EC, holds very good review sessions for all the exams, and is very quick to respond to questions on Piazza. He is a very reasonable prof and should teach more courses!",
+          "date": "2021-12-17 19:36:22 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello made discrete math easy to learn. The lectures are amazing and you get 2% extra credit if you do the iclickers. He prepares students very well for the exams and always has office hours before homework and exams. If you take CS 151 try to take it with Professor Bello. I'm so glad I got to take discrete math with Professor Bello!",
+          "date": "2021-12-17 05:38:53 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Best professor you will ever have at UIC. Lectures are incredibly designed, he has them down to the minute, and he cares a ton about his students. I've never had a class where I genuinely felt like I was truly learning and truly had the chance to succeed. You'll learn his content well, and you'll do well, thanks to his teaching.",
+          "date": "2021-12-17 02:23:58 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "THIS MAN DA GOAT! His lectures are so good and there's lots of extra credit! Participate in the Iclicker thing and get 2% added to your final grade. His study guides are very close to the exams. Participate, do homeworks, and pass!",
+          "date": "2021-12-16 03:06:32 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello is a real gem to the CS Department. If you are taking Discrete Math try to take it with him. He makes it easier to understand the course material and his lecture slides are a work of art. The way the class is organized is amazing and there is tons of opportunities for extra credit in this class. Please take the effort to go to class",
+          "date": "2021-12-11 15:48:15 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "One of the most organized and passionate teachers I've met. One of the best at UIC.",
+          "date": "2021-12-09 18:19:23 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Although this is my first semester at UIC, Bello is definitely the best CS teacher I have had the pleasure of having. This man is always responding to student emails and Piazza posts, having TA sessions, and offers help for exmas. 6 / 5, if I could",
+          "date": "2021-11-17 19:39:00 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "An excellent professor. Gives plenty of examples and clear explanations. Not once has he been unable to not answer a question asked in person. When messaged, he answers within 30min. Provides practice exams, homework, and labs to prepare for exams- all which are of reasonable amount and difficulty. Plenty of opportunities to get assistance. Smart.",
+          "date": "2021-11-08 05:21:33 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "One of the better professors at UIC.",
+          "date": "2021-11-08 04:53:02 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS418",
+          "comment": "He made me fall in love with Data Science, he teaches just the right amount of Math and background required and focuses more on practical aspects of things. His teaching is very good. Never missed a single class.",
+          "date": "2021-10-25 21:42:17 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Professor Bello is an absolute gem. His explanations during lecture are extremely helpful and easy to understand. The midterms/final cover exactly what he goes over in class so make sure to attend and pay attention. The exams are not hard if you understand the material. The homework is probably the hardest part of the class, but overall, good prof!",
+          "date": "2021-09-23 05:14:08 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "I thought there weren't good Professors at UIC until I stumbled upon Dr. Bello. Enroll into this class and you have nothing to worry about. You will 100% learn, have fun and do well! He is such a caring person, and puts lots of efforts in everything he does. Dr. Bello deserves all the success coming his way.",
+          "date": "2021-05-04 22:54:16 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS418",
+          "comment": "When it comes to teaching, he is and I'm not exaggerating, a god amongst mortals. I read a review for him saying they're worried how much sleep he gets given how late he's up answering questions on piazza. That sums it up. Great teacher, genuinely cares about students, great slides, always down to give extra credit. What more can you ask for?",
+          "date": "2021-04-29 03:44:23 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Prof. Bello is one of the best professors in the CS department, his teaching makes classes like these interesting and easy.",
+          "date": "2021-04-26 20:51:41 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "I would not take his class again ever.",
+          "date": "2021-03-01 03:53:27 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "C-",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "Fantastic professor hands down. Has the ability to teach all concepts in a way students understand best.",
+          "date": "2020-10-08 09:36:00 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Overall great professor. Unlike some other professors, he is fair when it comes to grading and giving partial credit. There are numerous opportunities to make up for lost points, and everything is fair game. Good explanations and helpful when you are confused about something.",
+          "date": "2020-08-12 23:48:14 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "An excellent and ever-ready professor. He knows this stuff so well. He genuinely cares about his students succeeding. His lecture slides and his in-class lectures are top-notch, and he's always on piazza answering questions. Like there's no reason you should fail this class if you listen to him. Take him, he's really the best!",
+          "date": "2020-06-05 00:39:48 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello is a great professor in multiple ways. He is very good at lecturing and really knows his stuff, it scared me because I never remember him fumbling his words or saying a wrong thing. He is also very quick to responding to piazza posts, sometimes extremely late or early in the morning. Probably the best CS professor I have had yet.",
+          "date": "2020-05-10 04:02:56 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Phenomenal professor! This class was difficult but he made it look like a piece of cake:) He does everything in his power to get you to understand the concepts taught in the class. He does take a while to grade things but that's a concern for people who like seeing their grades asap. IF HE'S AN OPTION FOR A CLASS, TAKE HIM!",
+          "date": "2020-05-09 22:09:20 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "He's beyond amazing! His lecture slides as well as actual lectures are indisputably awesome! I feel he makes it a priority to get his students to understand his lectures, and also respond to piazza questions really quick (no matter the time). He gives decent deadlines, extra credit, and asks on exams only what he went over. Take him if you can!",
+          "date": "2020-04-21 19:53:23 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151CS301",
+          "comment": "I took Professor Bello for 151, 301, and will be taking him again for CS418. He is by far, with no competition, the best CS professor at UIC. His powerpoints are godtier and provide all the information you need to pass, but as an added bonus you get him! He can answer any questions on any topic in class and he gives a good amount of extra credit!",
+          "date": "2020-02-26 23:17:10 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Professor Bello is the best teacher I have ever had the pleasure of learning from during the course of my CS degree at UIC. He genuinely cares about his students learning the concepts he is trying to teach. I had him for CS 151, CS 301, and will have him for CS 418. He is always prepared, and as long as you pay attention you will learn in his class",
+          "date": "2020-02-21 16:32:11 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Perhaps the only good CS professor at UIC. Thats all. Im enjoying his classes",
+          "date": "2020-02-18 05:43:28 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS301",
+          "comment": "His lectures are pedagogically sound. Unfortunately, he takes eons to grade things, which is a hindrance for students who want to get feedback on their HW to learn from their mistakes.",
+          "date": "2019-12-13 07:34:12 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Not sure yet",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Professor Bello is a fantastic teacher. Try to establish yourself by speaking with him outside of class. Whether you need clarification on a lesson or want to talk about your academic career, he's willing to listen and offer constructive and sound advice. He's an educator through and through. The class was tough, but he made it easy to get through.",
+          "date": "2019-12-12 11:56:13 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "He is the best professor I've ever taken a class with. Lectures are really amazing, makes everything so easy to understand,very caring, would love to take class with him again.",
+          "date": "2019-08-24 22:44:37 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "By far the best &quot;powerpoint instructor&quot; at this university. Amazing slides, fun and interesting lectures and extra credit to boot! The class is fast paced and can seem difficult, but he brings it down to an easily understandable level. Exams are the bulk of the grade, but partial credit is generous. Truly a Lord of Logic, you should take him!",
+          "date": "2019-07-02 01:33:47 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "His lectures are dense and go quickly, but that's not his fault as there is a lot of material to cover. You need to pay attention otherwise you'll be lost. He's a great professor, genuinely wants his students to succeed. Despite the fast pace of his lectures he makes sure to stop to let people ask questions. Always on Piazza.",
+          "date": "2019-05-11 23:35:19 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Understands what students want and keeps you engaged. Amazing lecture slides lots of examples. At first, I did not like him because he is going through a lot of stuff quickly. Later I realized how easy he makes it look, even though the topics are tough. Going fast is not his fault, the class covers many different topics. You can't hate this man!",
+          "date": "2019-05-10 05:59:52 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "he breathes this stuff, he understands it so well that it seems like he's just explaining how he woke up",
+          "date": "2019-05-10 03:35:52 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "Great lectures , approachable and helpful . Some of the material is hard like induction",
+          "date": "2019-05-09 01:18:09 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Dedicated educator. Very knowledgeable about the material and will absolutely help you if you don't understand everything, if you seek it. His lectures go by very quickly because they keep you engaged.",
+          "date": "2019-05-08 19:39:13 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Amazing professor, god tier hair and fit, his knowledge and wisdom can make a person insecure though, but you shouldn't feel dumb as this man is on his own level surpassing limits no human has ever accomplished before, I can only feast my eye sockets upon the knowledge that he gives to us peasants through his godly lecture slides.",
+          "date": "2019-05-08 07:37:08 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "He is the best professor ever.",
+          "date": "2019-03-08 16:14:37 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "This professor is really good and helpful and gives away tons of extra credit. But his lecture content are heavy as he goes over lot of stuff . Just pay attention and you'll pass easily.",
+          "date": "2019-01-10 17:13:00 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS418",
+          "comment": "Literally the highest quality professor in the UIC CS department.",
+          "date": "2018-12-28 05:25:35 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Hes probably the best professor I have ever had in that hes intelligent, a great teacher, and truly does care about his students success. Lots of extra credit opportunities and is always active on piazza answering any questions that students have. The class material is tough, but most definitely doable. Highly recommend.",
+          "date": "2018-12-22 22:51:00 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS418",
+          "comment": "Great professor,very knowledgeable and caring. Always ready to help during office hours and even outside of office hours. I haven't seen so much dedication to students in a while. I would highly recommend him if you want to learn the content of class, feel confident, and get a good grade. His lecture/code materials are very organized on blackboard",
+          "date": "2018-12-20 07:47:16 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello is very organized and provides clear grading criteria for all exams and assignments in his class. His lecture slides are nicely prepared as well. He answers questions quickly on Piazza and listens to the concerns of his students.",
+          "date": "2018-12-15 22:40:47 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Great Professor... Has a great way of explaining the subject such that everything makes sense. Loads of opportunities for extra credit in classes and in exams as well. Participation in class matters. Gives a lot of homework but also gives the required time for it. He is accessible after classes and in office hours and does his best to explain all.",
+          "date": "2018-12-09 10:39:45 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Great professor. Generous with extra credit. He even showed how to do the extra credit problem on the midterm and final exam the lecture before. Very helpful and is cares about his students",
+          "date": "2018-11-17 17:55:20 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Bello is an amazing lecturer. He tries his best to make his lectures engaging and meaningful. Prof. also tries to give the most help outside of class. He is very accessible either through Piazza or office hours. (and he gives EC)....",
+          "date": "2018-08-22 20:55:04 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He is a great professor. He is very organized and helpful.",
+          "date": "2018-08-11 16:48:16 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      }
+    ]
+  },
+  "school": {
+    "name": "University of Illinois Chicago"
+  }
+}

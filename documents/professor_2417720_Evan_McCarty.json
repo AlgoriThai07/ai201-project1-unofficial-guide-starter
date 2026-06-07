@@ -1,0 +1,906 @@
+{
+  "avgDifficulty": 3.3,
+  "avgRating": 3.9,
+  "department": "Computer Science",
+  "firstName": "Evan",
+  "lastName": "McCarty",
+  "numRatings": 81,
+  "ratings": {
+    "edges": [
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS342",
+          "comment": "He made some mistakes grading projects which is my only issue. Otherwise really good and smart professor.",
+          "date": "2026-05-05 23:23:10 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 2,
+          "class": "CS342",
+          "comment": "Professor can be pretty lenient in general. However, homework and project outlines are unclear, inconsistent, and sometimes wrong. The starter code is messy and lacks guidance, so you're left guessing. The grading system is unfair, limiting high scores. Overall, the homework is boring and frustrating, with only some freedom in project design.",
+          "date": "2026-04-13 03:22:06 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "Not sure yet",
+          "helpfulRating": 2
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "Mccarty is the best. If you come to 75% of lectures and study for the quizzes a little you'll be straight. I highly recommend him, he's very knowledgeable too.",
+          "date": "2026-04-02 17:42:11 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "The GOAT. The best professor at UIC hands down. ",
+          "date": "2025-09-29 23:09:44 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "courseload was very manageable and he gave a lot of chances to bring your grade up through quiz re-takes. he gives students 5 late days total to use on homeworks and projects, DO NOT use them on homeworks if you can help it lol save them for the projects. you shouldn't get below a B in this class if you're taking it with him.",
+          "date": "2025-05-13 18:36:15 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS362",
+          "comment": "Evan McCarty is one of the best CS professors out there when it comes to explaining Theory and Logic. Every semester I've had him I never had a problem understanding the topics. His HWs can be pretty tough but they do teach you ALOT and YOU WILL be well-prepared for exams. He also give a lot of time to do your assignments and he's a fair grader.",
+          "date": "2024-12-19 00:00:09 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS362",
+          "comment": "Best possible professor for any logic related class. Class could be structured a bit better (ie. labs do not relate to lectures), but the material was taught  well nether-less. Wished more students cared about computer hardware though, the lectures were always empty. ",
+          "date": "2024-12-12 21:29:02 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "I took Professor McCarty for CS 151 and now CS 301 and I have always loved his classes. He has clear grading scales, attendance is never mandatory, and if you watch the lectures and take good notes, you'll do well. For the exams, always watch the practice exam that he goes through - it helps tremendously. ",
+          "date": "2024-11-26 00:06:19 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "ONE OF THE BEST CS PROFESSORS AT UIC, register for a CS class and see his name there, you are guaranteed an awesome professor. Taken him for 151,342,301. Beyond informative for all of them, easy to pay attention and follow along in this lectures because the way he speaks is great",
+          "date": "2024-10-27 02:03:28 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "Professor is really good. He gives extra credit also his exams and quizzes are pretty much what u learned during lecture 1:1.  He wants you to pass so he gives many oppurtunies such as extending deadlines. Hes is a very kind and understanding professor. I high reccomend!!",
+          "date": "2024-09-19 19:09:34 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "An excellent professor that truly cares about his students. His coursework is somewhat high, but very manageable and flexible. He gives a lot of opportunities to succeed in his courses, and I have learned so much from his lectures. ",
+          "date": "2024-05-14 14:53:49 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS342",
+          "comment": "Prof McCarty is a respectful and caring person. All his exams are not hard. He does an in-class review session, which helps. Also, he doesn't make the exams much different from previous semesters' exams. He is very fair with homework and quizzes. His lectures can be a little boring, but they are still very informative, and everything is recorded.",
+          "date": "2024-05-10 21:56:10 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "I have had McCarty for CS 151 and 342. Very chill professor and even rounded my 151 from a B to an A! I would highly recommend choosing him!",
+          "date": "2024-05-09 00:43:53 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "He is understanding and gives good lectures. I found his lectures to the point and engaging. Enjoyed his class! ",
+          "date": "2024-05-07 04:49:23 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "Absolute best at UIC. Have taken 151,301,342 and have worked under him. He is one of the most understanding prof here and has blessed so many students as he Improves any class that he takes up. : )\n\n",
+          "date": "2024-05-07 04:33:54 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "McCarty is a caring professor. Many projects and work come with the CS 342 class, but they are all helpful and the professor is very kind and considerate to everyone.",
+          "date": "2024-05-07 00:28:39 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "Professor McCarty's teaching style includes explaining how programming topics work, then demonstrating them during live programming. Attendance is not required, and lecture materials/recordings are posted online. Projects have defined goals and are a very fair level of difficulty. Professor McCarty is also kind and cares about students learning.",
+          "date": "2024-05-06 19:56:45 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "Definitely the best CS teacher in UIC. Had him for 3 different classes (CS151, CS301, and CS342) and I'm having him again next semester. His classes are a little difficult, but he makes them way easier. Attendance always not mandatory.",
+          "date": "2024-05-04 05:58:21 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Mccarty is a great professor. I'm glad I took CS151 with him, he made it very enjoyable.",
+          "date": "2024-05-04 04:00:00 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "One of the best professors and so much to the point on what exactly is taught and needs to be learnt. ",
+          "date": "2024-05-04 01:56:01 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "McCarty makes his expectations for homework, quizzes, and projects very clear and reasonable. The lectures are always engaging and actually useful for learning, rather than busywork. He is definitely a great teacher and passionate about helping his students succeed. ",
+          "date": "2024-05-04 01:22:44 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "Professor McCarty is one of my favorite professors at UIC. I had him for CS151, 301, 342, and will have him for 362 in the coming semester. His method of explaining complex material is very organized and clear, resulting in a deep understanding and retention of the info. He is very accommodating and helpful and is an overall amazing professor. ",
+          "date": "2024-05-04 00:32:17 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "I had professor McCarty for CS342, and I must say he's a really great professor and very accomodating for student errors. He makes the class very straight forward in that if you're doing well on quizzes then the final will be fine same goes for the projects themselves. I really enjoyed the class and the projects we had were challenging and fun.",
+          "date": "2024-05-04 00:31:24 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "This is my third class with Prof McCarty and he's easily one of the best professors at UIC. His lectures are great and he always assigns a reasonable amount of work. He is very accommodating and will help you out so you can succeed in the course. Highly recommend taking a class with him if you can, you won't regret it. ",
+          "date": "2024-05-04 00:26:41 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "For his first time teaching 342 he structured his quizzes and final exam a lot like the 151/301 format. homework and quizzes where definitely manageable if you take the time to go over his lecture. Pairs allowed for all projects, last project felt rushed but we had a lot of liberty in what we could do. ",
+          "date": "2024-05-04 00:24:22 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "Had McCarty for CS 151, 301, and 342. One of the best professors at UIC and I'm always hyped to take one of his courses.",
+          "date": "2024-05-04 00:00:46 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS342",
+          "comment": "Goated! You will love him!",
+          "date": "2024-05-03 23:58:35 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "This is actually for 342, but I had him in 301 and 151 so Im basically a McCarty expert.  This man is easily one of the best professors at this school.  Lectures are engaging, although 342 was a little thrown together, not really McCarty's fault, I still learned and did a lot in the class.",
+          "date": "2024-04-30 00:49:42 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He is really an amazing professor.  Would definitely take him again for another class ",
+          "date": "2024-03-08 04:24:08 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Took him for both 151 and 301, I don't think it's possible for a class to be more organized than Prof. McCarty's classes and for a professor to be more understanding and helpful than him. ",
+          "date": "2023-12-13 03:17:35 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "dat boy goated",
+          "date": "2023-12-06 00:40:24 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Very knowledgeable. I think he knows almost everything about computers. Very fun guy to talk to before/after classes about any computer related topic. Gave opportunity to fix our homework to get a better grade, and he would give curves too.",
+          "date": "2023-07-02 15:24:38 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Really good professor.",
+          "date": "2023-06-12 05:59:52 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Awesome Professor! Just paying attention to his lecture and slides would suffice to great a good grade.",
+          "date": "2023-06-02 15:44:47 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "the best",
+          "date": "2023-05-11 17:26:59 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Wow, I really do not get what past reviews of McCarty are saying. Maybe it was influenced because of Covid styled lectures, or if it was because McCarty has more experience now, but McCarty genuinely was such as blast to have. Attendance is not mandatory but I tried to go everytime because he would make Discrete Maths topics way more understandable",
+          "date": "2023-05-06 12:56:07 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Great professor. I enjoy the way he teaches, his lectures very loud and clear. Never boring. To get a good grade, attending labs and completing homework are a must. The class was also one of the most organized classes I've had at UIC.",
+          "date": "2023-04-27 23:03:38 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor Mccarty makes 151 an easy A for students that put the work in. If you attend class, labs, do the homework and study for midterms and the final.",
+          "date": "2022-12-30 04:10:10 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Very charismatic, discrete maths (151) has a lot of new/weird concepts but he explained them in ways that made them easier to understand. Not much work, just a lab and homework each week, and lots of partial credit given on the homework and exams. Always very willing to answer all questions during class. ",
+          "date": "2022-12-21 22:35:40 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Not really sure about the negative comments, have him for CS151 this semester. He is one of the nicest professors, easy with deadlines and thoughtfully curates the test. Also, the course is not designed to be too heavy on students since it is just a weekly HW every Wednesday with Lab work.\n\nWould definitely take any other class with Prof McCarty.",
+          "date": "2022-11-24 01:55:21 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "He is great at answering questions during lectures and his slides and examples are relatively easy to follow. The course content is difficult but if you ask him questions it becomes easy. He tells what each type of question on the test will be so it is easy to prepare and you can bring a note sheet. Exams are not bad and lectures are okay.",
+          "date": "2022-11-11 19:30:25 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "I've never had an instructor who went to such great lengths to make sure every student's question is answered during lecture. This teacher goes above and beyond to make sure that his students are prepared to succeed on exams, going as far to ask if we feel comfortable with a topic before putting it on an exam. Very light homework load.",
+          "date": "2022-11-06 00:22:54 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS301",
+          "comment": "Had him for 151, made 301 a lot easier knowing his teaching style. He makes it as easy as he can to get an A. extra credit, and exams are pretty identical to course material. Better than the other 301 profs. Overall, the class helps you think more analytically when approaching coding, but can't imagine it's much more practical beyond that.",
+          "date": "2022-02-20 04:03:20 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "I had McCarty for both 151 and 301. He is very active in helping his students understand the material as much as possible. Grading criteria is clear and he is very generous with it. I learned a lot in 301 and he made theoretical computer science fascinating to learn about. I would definitely take another course with McCarty.",
+          "date": "2021-12-13 19:41:10 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Took McCarty for 301 and his review sessions basically covered what would be on the exam without any trick questions. As long as you go to class/watch lectures this class is very generous with lots of extra credit available(up to 5%, also got 1% for course eval) . Nice change of pace from other CS courses like 251 and 261.",
+          "date": "2021-12-10 20:22:06 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Really good professor. I took CS151 with him online, now I'm taking CS301. 100% recommend taking a theory class with him.",
+          "date": "2021-11-29 17:31:07 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "&quot;WOW&quot; Professor",
+          "date": "2021-09-23 18:17:49 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "Genuinely a really good professor. However, the coursework and syllabus is definitely not easy, but if you focus on the lectures and practice homeworks well, it will seem way less challenging. The professor's been really nice and accommodating throughout the semester. Also, the professor has really strict academic integrity policies.",
+          "date": "2021-05-07 18:17:58 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "In retrospect, the material is pretty easy. However, when we were first learning it he made it seem like the most complex thing in the world as he explains next to nothing. Also, he takes forever to grade as he's busy trying to catch cheaters instead of trying to actually teach us like a decent educator should. Take him if there's no one else.",
+          "date": "2021-05-03 01:53:19 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 2,
+          "class": "CS151",
+          "comment": "In retrospect i should have read one of the textbooks alongside the class or found a youtube chanel to help walk along the class. Some topics are difficult to understand at first and he kind of skims over some of them. He genuinely wants students to succeed and makes the class as easy as possible to get an A.",
+          "date": "2021-04-17 22:10:36 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 2
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "This man's lectures are so vague and barely go into details. After this, he gives you very difficult homework that has nothing to do with the lectures. Also, he takes far too long to grade all the homework because I suppose he's trying to catch cheaters. The way he teaches the course is like he expects you to be a master at it beforehand. Avoid!!!",
+          "date": "2021-04-14 16:37:44 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Drop/Withdrawal",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS251",
+          "comment": "He's a really nice professor, and the lectures are really helpful. One thing I loved about the course was professor McCarty implies active learnings, where we get to study and experiment with different kinds of methods for applied level questions while doing the homework, along with great help in office hours.",
+          "date": "2021-03-24 14:19:24 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "This guy is really out here giving 20 minute lectures on a full chapter and expecting people to write formal proofs explaining concepts he barely even mentioned. An absolute joke of a class. I've also seen him intentionally giving students the wrong answer in office hours because they're supposed to &quot;figure it out&quot;. Avoid at all costs.",
+          "date": "2021-03-02 01:16:51 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Rather not say",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "He would not respond to my emails all semester. His lectures are super vague and he does not teach them well at all. His teaching style is, he will vaguely review the material so that you would either have to cheat to get it right or rely on a curve. He would usually curve it, however, the class pointless when he does not teach class well.",
+          "date": "2021-02-23 03:19:58 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "You'd need to know discrete math PRIOR to this class in order to learn from him. But if you don't cite your knowledge on EACH assignment, you'll be labeled a cheater since another student came up with the same answer you did. And now you've been reported to the dean:) NOT recommended for any 100-level course. He's a smart guy though, technically.",
+          "date": "2020-12-01 00:23:01 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Rather not say",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 2,
+          "class": "CS151",
+          "comment": "His class is like an emotional rollercoaster. There's highs and lows. The highs are some meme quality lectures at the beginning of the semester.... and the lows are constantly being put under intense panic attacks thinking you might be part of the 1/3 of the class that gets reported as cheaters. Would not ride this rollercoaster again nice guy tho",
+          "date": "2020-11-25 21:16:56 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Not sure yet",
+          "helpfulRating": 2
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "The homework is built in a way where it assumes that the student has not only learned this material, but mastered it, that they are completely capable of handling any and every question surrounding the material discussed in the handout. This homework is given in the same week the handout. The reviews from the same semester as me will say the rest.",
+          "date": "2020-11-25 21:03:47 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "This class replaces the normal MWF lectures you have with 3 20-30 minute long videos. That is hardly enough to learn if you're new to the topic. The homeworks are also very difficult compared to the examples he shows in class along with a fear of constantly being accused as a cheater. Our class has had around 30% of its students accused so far.",
+          "date": "2020-11-25 20:59:11 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "pretty bad online setup, theres a piazza to ask questions but a lot of the questions remained unanswered. this class is TOUGH so the lack of answers to questions is a big no. HW is much harder than class content and their answers arent released. mccarty knows his stuff but maybe isn't the best at conveying that knowledge to students. EC in HW",
+          "date": "2020-11-19 02:11:37 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Not sure yet",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "His homeworks are always much more difficult than the examples he goes over during lectures and lab. Also takes absolutely forever to grade homework, so you won't know whether you did it right or not till a month or two later. Be prepared to camp office hours if you want a decent grade.",
+          "date": "2020-11-01 03:39:00 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "The communication with this instructor has been the worst experienced I've had thus far in my prior college and here at UIC. I know we are in tough times with everything online currently, but his online lectures have not been great at all. I wish we were on campus.",
+          "date": "2020-10-29 01:30:40 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Rather not say",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS151",
+          "comment": "Useless in the online format",
+          "date": "2020-10-23 00:35:03 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Not sure yet",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS301",
+          "comment": "He's a pretty cool professor, relatively understanding of the course load students have. A lot of his lectures tend to be more abstract, so if you aren't good at connecting the dots for concepts, you're going to have a hard time.",
+          "date": "2020-05-20 16:46:39 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "C",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Took him in Fall 2019. His lecture was fun and challenging. He answered questions patiently during office hours. There were Q&amp;A sessions before exams which were very helpful. In all, he is a nice guy. My favorite professor at UIC so far.",
+          "date": "2020-05-19 05:12:29 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS151",
+          "comment": "Lots of Extra Credit opportunity. Not an easy class, but an A is achievable if you put in the work.",
+          "date": "2020-01-14 17:58:50 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "McCarty was one of the worst professors I ever had. He would not release any solutions to hw, quiz's and exams that we took. Even when I event to his office hours he would waste time and confuse me even more. The hw is extremely hard and worth 30% of your grade. A 100 level class shouldn't be this hard compared to my 300 and 400 level classes.",
+          "date": "2019-12-18 22:17:01 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "B",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS151",
+          "comment": "This is by far the hardest class I've ever taken. Every week there are homework assignments that have extremely difficult questions on them. His lecture slides do not help with the homework as his explanations are not detailed enough. On top of that, his exams are tough and will require lots of work. He expects you to do understand the Zybooks.",
+          "date": "2019-12-17 16:42:03 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "C",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS251",
+          "comment": "One of the best professors i've ever had in a lifetime. Keeps the class engaging, has expectations from you in terms of keeping up with the reading, but if you do keep up with the reading then he will make sense of everything you've read and will make sure that you can get the A. GIves away easy Extra credit for attendance and in all his homeworks.",
+          "date": "2019-12-13 05:32:50 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A-",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Professor mccarty is energetic, caring, and tough. Stuff that I like to see in a professor. And he structures the class where its more about what you learn than your grade. Hopefully I can take 301 and 412 with him in the future. A gem in the making.",
+          "date": "2019-11-22 22:05:34 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS251",
+          "comment": "He's a nice guy. Lol to whoever said he &quot;only has an MS degree&quot; (still takes hard work). Evan will hold you to high expectations and want to challenge you so keep that in mind.",
+          "date": "2019-04-17 18:08:41 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He's my favorite CS professor so far. He responds nigh instantaneously to Piazza messages, and his lectures are fun, clear, &amp; easy to understand as long as you show up &amp; pay attention. The textbook is not required; however, I do recommend you skim it if you're stuck on homework. I found CS151 easy, so YMMV. He gives a lot of extra credit!",
+          "date": "2019-01-21 01:48:49 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "really nice guy and hair",
+          "date": "2019-01-15 01:04:00 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS301",
+          "comment": "Professor McCarty taught this class pretty well lectures and lab solutions helped me pass the class. HW where challenging just like he said he was going to make and then exams if you did well in the HW then the exams should be easier especially when he allows you to vote for what to expect in the exam. How many professors do that? think about that",
+          "date": "2019-01-14 16:14:30 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS301",
+          "comment": "301 is a theory course, Mccarty knows his stuff well but he has a hard time sharing that knowledge. He only has an MS degree, skips steps and makes things way more hard that they should be. Home works are VERY HARD and he never provides the keys for them and exams. Took data structures and this course together and found data structures easier....",
+          "date": "2018-12-22 02:05:24 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "B",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS301",
+          "comment": "He knows the material very well but he doesn't know how to teach. 301 is all about theories and proofs, he needs to slow down and explain everything in details. Homework is time consuming because he asks harder questions in homework and no solutions provided to any homework or exams. Basically you need to teach yourself. Avoid him if you can.",
+          "date": "2018-12-20 17:08:04 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B+",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Really nice guy, office hours are super helpful. EC opportunity and pretty significant curve. Book was helpful. Material is much more abstract than other CS classes, but if you can wrap your head around a few key concepts then it becomes pretty straightforward.",
+          "date": "2018-12-18 15:37:31 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "One of the best professors in uic. The class was hard, but he made it easy. He cares about students and he is very lenient on grading . There are 2 midterms worth 20% each, 1 final worth 30%, 6 homework worth 25%, and 5% clickers. His homework are hard, but his exams are easy because he tells the exam questions to students in advance.",
+          "date": "2018-12-10 23:03:07 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS301",
+          "comment": "His homework and exams are difficult. TAs aren't great during discussion. This is his first semester teaching at UIC, so I'm giving him a bit of support. Office hours are helpful. The book and labs are optional, but they do help with homework. He at least gives us a choice of what topics we want/don't want on the midterm/final by majority rules.",
+          "date": "2018-12-07 13:28:22 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS301",
+          "comment": "CS 301 with Prof McCarty is the perfect definition of riding a bike, but that bike and everything around that bike being on fire. This class was miserable. He doesn't provide with solutions to anything, doesn't help with his impossible home works and he cares more about his TA's than he does for his poor suffering students. Good luck taking him!!!!",
+          "date": "2018-12-05 01:56:32 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "CS 301 is by no means an easy class. The material is unlike anything you have done previously. But, if you pay attention in class, go to office hours, and spend time going over the labs, you will do fine. He is very approachable and his office hours are very informative and laid back.",
+          "date": "2018-11-11 19:35:28 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS301",
+          "comment": "He sucks. Doesn't post any hw solutions. There is no study guides for the exams either. 90% of grades is from exams and the other is hw, home work is impossible and his TA's doesn't teach anything like him. You barely understand anything from his lecture and outisde sources are not allowed. DONT TAKE HIM",
+          "date": "2018-11-05 16:56:49 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      }
+    ]
+  },
+  "school": {
+    "name": "University of Illinois Chicago"
+  }
+}

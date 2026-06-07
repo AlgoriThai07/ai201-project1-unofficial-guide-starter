@@ -1,0 +1,34 @@
+{
+  "title": "Honest advice for taking CS 211 + CS 251 + CS 261 in one semester",
+  "text": "Hey y'all. I need honest advice. If you took CS 211, CS 251, or CS 261, how was that experience for you? Why, in particular, are these classes so difficult for most people?I ask because I have the option of fulfilling a CS minor, but I would need to take all 3 in one semester to graduate this December. I wouldn't have any other difficult classes besides these 3 as well.Please let me know. I would really, really appreciate it.",
+  "comments": [
+    {
+      "author": "Deleted User",
+      "text": "211, 251, and 261 are the weed-out courses for a CS major. 211 goes into the details of C and introduces C++; 251 takes C++ and introduces core data structures/algorithms; and 261 is about the low levels of computers. Each course is chock full of information and complexity; naturally, each course takes time. They are challenging courses and require long(er) periods of time to understand and implement projects. I took CS 251, 261, 301, and two other math/stats classes in Fall 2022; had I chosen CS 211 instead of 301, I definitely would not have taken 5 courses. This sounds like I'm trying to be scary. What I want to tell you is this: if you do these courses, this last semester of yours increases in difficulty and time commitment by a non-trivial amount. Be prepared to spend stretches of time twisting your brain until you find solutions. That all being said, you will learn the core fundamentals of Computer Science, and it will benefit you in the long run. Ask yourself this; how do you want your last semester at UIC to go? Think specifically about how hard you want to work and how much time do you want to spend on your classes."
+    },
+    {
+      "author": "Sufficient_Health127",
+      "text": "Thank you for the detailed advice. This was exactly what I needed to hear and ask myself."
+    },
+    {
+      "author": "buddsri",
+      "text": "Why can't you do 211, 251, and 301? That is easier than 211, 251, and 261. The 301 requirement is credit or concurrent registration in 251, just as 251's requirement is credit or concurrent registration in 211"
+    },
+    {
+      "author": "Sufficient_Health127",
+      "text": "I would totally do 301. It's just that it's all full at the moment and there are no seats. So I am banking on the idea that I will probably have to do 261, if I go through with this CS minor thing."
+    },
+    {
+      "author": "buddsri",
+      "text": "Oh damn. Um then like the first person said, do consider if you want to take these classes in your last sem. I think add/drop is until 4pm today too, so keep in mind that. Good luck!"
+    },
+    {
+      "author": "Difficult-Coyote375",
+      "text": "Hi! I took 211, 251, 261, AND 277 all in one semester in Spring 2024(last semester). Taking this all in one semester is a lot of work I got to be honest with you, and you might expect a project every week, with a test or quiz in the middle of it as well. However, I also know other CS majors besides myself that have done the same thing, and at the end, we've all gotten through it. Not going to lie though, taking all of this in one semester is a huge development in your CS skills and will help you in the long run. Depends on what you make of it of course hehe (please don't mind my horrible grammar lol)"
+    },
+    {
+      "author": "[deleted]",
+      "text": "211, 251, and 261 are the weed-out courses for a CS major. 211 goes into the details of C and introduces C++; 251 takes C++ and introduces core data structures/algorithms; and 261 is about the low levels of computers. Each course is chock full of information and complexity; naturally, each coursetakes time. They are challenging courses and require long(er) periods of time to understand and implement projects. I took CS 251, 261, 301, and two other math/stats classes in Fall 2022; had I chosen CS 211 instead of 301, I definitely would not have taken 5 courses.This sounds like I'm trying to be scary. What I want to tell you is this: if you do these courses, this last semester of yours increases in difficulty and time commitment by a non-trivial amount. Be prepared to spend stretches of time twisting your brain until you find solutions. That all being said, you will learn the core fundamentals of Computer Science, and it will benefit you in the long run.Ask yourself this; how do you want your last semester at UIC to go? Think specifically about how hard you want to work and how much time do you want to spend on your classes."
+    }
+  ]
+}

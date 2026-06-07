@@ -1,0 +1,356 @@
+{
+  "avgDifficulty": 1.6,
+  "avgRating": 4.7,
+  "department": "Computer Science",
+  "firstName": "Bhaskar",
+  "lastName": "Dasgupta",
+  "numRatings": 31,
+  "ratings": {
+    "edges": [
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "401 is known as one of the hardest CS classes at UIC, but with this professor, it is easy to get an A.",
+          "date": "2025-11-20 02:09:51 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Do you have a pulse? If so, this man will give you an A!\nHe's a good teacher still, but I think many just blow his course off because of the above.",
+          "date": "2025-06-13 18:06:42 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Attendance for lecture and discussions are both optional, and there's very few assignments. Assignments and exams aren't easy per se BUT there's a nice curve at the end of the semester which makes pretty easy to get a good grade. Make sure to go to discussion sessions to ask for help on assignments because some of them can be challenging..",
+          "date": "2024-12-25 07:50:20 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He's chill af! There was not too much homework, which wasn't worth that much of the overall grade. While the course was exam-heavy, the exams weren't too hard and were related to the homework and review guide. I got 100s on all assignments and homework except for one. Would def take a course with him again! ",
+          "date": "2024-12-25 02:35:43 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS301",
+          "comment": "pretty chill professor, easy exams, easy class",
+          "date": "2024-12-23 15:26:02 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A+",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He's the best teacher in the entire UIC faculty , hands down to this hard working man!",
+          "date": "2024-12-19 07:53:00 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He's DasGOATa",
+          "date": "2024-12-18 17:16:18 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "He's the GOAT. Do the assignments, study the provided materials, and you'll get an A. ",
+          "date": "2024-12-18 07:00:18 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "Bro doesn't care",
+          "date": "2024-08-29 21:12:39 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "Very nice professor, the best 151 among all 151 classes.",
+          "date": "2023-12-13 02:49:10 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "Professor DasGupta is fantastic. I always looked forward to what questions or comments he would make lol. His lectures are not extremely fast-paced, although proof heavy. There are very few HW assignments (almost too few IMO), 2 midterms, and a final exam. Exams are fair with few questions. Highly recommend getting into his section if possible!",
+          "date": "2023-05-03 23:05:40 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "Easily the funniest Professor I have ever taken, with amazing lectures. The course was more focused on demonstrating an understanding of topics by attending lecture rather than homework (proven on the exams). All exams and assignments were fair. If you can take him, absolutely do. Every class was enjoyable to attend, and you can learn a great deal.",
+          "date": "2023-04-28 17:31:08 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "There were 3 homework assignments, 2 midterms, and a final. All lectures were posted online, you only had to show up to turn in homework and take the tests. Generous points were given even if you didn't get the right answers on the homework. You're given sample tests with analogous questions to the actual tests. This man is a blessing.",
+          "date": "2022-12-17 09:50:02 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "Easiest CS class, extremely lenient grading and you learn a fair bit too",
+          "date": "2022-01-17 00:47:25 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "If you are taking 401/301 do not think any further and just enroll. Class is possibly the easiest A you will ever get. Impossible to fail this man and with minimal effort you will get an A. No need to show up to lecture either just reread his slides/practice exams and make sure you understand core concepts for exams since they are easy too.",
+          "date": "2021-12-21 22:10:59 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS501",
+          "comment": "The professor is a legend ! Teaches like magic, explains the most difficult concepts like butter.",
+          "date": "2019-12-07 20:13:49 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Easiest A I've ever gotten in CS. If only every math class was like this. Feelsbadman. Protip: Practice exams are very similar to the actual ones.",
+          "date": "2018-03-12 16:29:12 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "This man is a living legend. Take him if you can and you will get an easy A.",
+          "date": "2018-01-15 14:17:18 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS301",
+          "comment": "Went to class twice, got an A. As long as you go over his 3 question practice exams there is no way you would fail, since he gives the same questions on the actual exams. Huge curve, even though everyone did great. If you actually do want to learn though he is actually a very good lecturer too. Take him, you won't regret it!",
+          "date": "2017-12-20 22:11:59 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "first midterm was the exact same questions as the study guide. second midterm was nothing like the study guide. midterms were 2 questions. very generous curve. the final was really just another midterm, and really easy. much easier of a class than i anticipated.",
+          "date": "2016-12-22 19:29:15 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS151",
+          "comment": "He is a real gem! Amazing prof!!! Not many assignments and a really easy grader. Attendance is not mandatory! Just review his study guide before the exam and you will pass. He is really funny during his lecture and really fun attending class. LOVE IT. He really cares about his students !!",
+          "date": "2016-11-15 22:06:24 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS502",
+          "comment": "great Prof",
+          "date": "2015-01-06 14:45:07 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS501",
+          "comment": "I enjoyed the lectures and the prof's sense of humor.  Sometimes I thought lectures were a bit too easy for an advanced course, but overall the pace of the course was good.  I would have liked more homework so I could have more feedback on my understanding of the material.  The professor also thinks EVERY topic in the course is easy.",
+          "date": "2014-12-12 13:44:55 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS401",
+          "comment": "Good professor and good course",
+          "date": "2013-01-14 13:55:38 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS201",
+          "comment": "He is slow paced and teaches a few concepts which are good to know. He really want your to understand. I like the fact that he curves the grade very nicely. A very good professor.",
+          "date": "2008-10-24 13:44:38 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS201",
+          "comment": "Dasgupta is awesome.",
+          "date": "2008-01-24 15:08:52 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS201",
+          "comment": "Super easy class. Not a lot of homework. Used PP slides most of the time. Easy to undersrtand, nice prof. Would take another class with him.",
+          "date": "2008-01-14 16:53:18 +0000 UTC",
+          "difficultyRating": 1,
+          "grade": "",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS201",
+          "comment": "This class was quite easy. You would be fine if you study the powerpoints. Homework is not bad at all. You get plenty of time to do it.  Overall exams were easy. He curves grades. A very good prof., I would def",
+          "date": "2008-01-04 05:37:26 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS201",
+          "comment": "I really do not like the way that Mr. Dasgupta teaches. You really have to teach yourself everything to get an A in this class.",
+          "date": "2007-12-16 23:51:49 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS201",
+          "comment": "No Comments",
+          "date": "2007-11-14 12:15:25 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS201",
+          "comment": "Course Data Structures and Discrete Mathematics. Fair to good presentation of the material. Went largely off ppt slides, few references to book, although the book was used for homework. Easy to get along with, responsive to questions. Fair grading.",
+          "date": "2007-10-10 15:06:26 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "",
+          "helpfulRating": 3
+        }
+      }
+    ]
+  },
+  "school": {
+    "name": "University of Illinois Chicago"
+  }
+}

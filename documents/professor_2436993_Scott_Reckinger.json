@@ -1,0 +1,708 @@
+{
+  "avgDifficulty": 4,
+  "avgRating": 2.7,
+  "department": "Industrial Engineering",
+  "firstName": "Scott",
+  "lastName": "Reckinger",
+  "numRatings": 62,
+  "ratings": {
+    "edges": [
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS107",
+          "comment": "Don't take him, he makes this course like a 400-level course.  ",
+          "date": "2026-05-07 14:12:39 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "D+",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS211",
+          "comment": "Great professor with good lectures, I just think that the course is a bit boring and it gets a bit redundant as time goes on, especially with labs, but otherwise projects are designed well and exams are doable.",
+          "date": "2026-04-13 00:09:00 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS211",
+          "comment": "Great professor. CS 211 is a challenging course with a broad scope, but professor Reckinger has the right attitude on the lectures, as well as outside of class to help any student succeed. Be wary of the group labs, which can be very difficult to complete in time. Projects are manageable if you start early. Exams are hard but fair.",
+          "date": "2026-04-03 15:02:23 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "Boring lectures, all read from slides, never reply to any email, teach important course and have absolute zero responsibility.",
+          "date": "2025-12-11 20:29:56 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Not sure yet",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS211",
+          "comment": "I retook this professor the same CS211 class in which the course was exponentially much more enjoyable in the summer course! He's an awesome guy if you talk to him and he always gives great advice/pointer for the content! Definitely do not slack like I did and make an effort to know him, it'll be worth it! Good luck!",
+          "date": "2025-08-08 04:29:25 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "C+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS211",
+          "comment": "I took Summer CS 211, and the class was indeed great. Prof was caring of his students, when they express concerns or need support due to fast pace, he would stay extra 2+ hours for Office hour after lecture just to explain the problems and make it very clear, and even adjust the teaching materials for better exam preparation. Well respected !!!",
+          "date": "2025-06-05 00:32:28 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 2,
+          "class": "CS211",
+          "comment": "I wasn't a fan. Both labs and projects did not feel calibrated for the course/skill level, and there were several instances where I genuinely could not finish more than three quarters of the lab in time. The TAs were incredibly unhelpful and Reckinger seemed genuinely out of it all semester. In addition, his communication was terrible.",
+          "date": "2025-05-01 21:53:52 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "C",
+          "helpfulRating": 2
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS211",
+          "comment": "Prof. Reckinger is a great instructor. The projects can be challenging at times, but he makes an effort to give you the material needed to complete the projects. There's also extra credit to give you incentive to complete the project early. His rating does not reflect how good he is IMO.",
+          "date": "2025-04-24 19:49:48 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "............",
+          "date": "2024-12-19 04:24:19 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "C",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS211",
+          "comment": "Honestly, he was a good professor. The lectures did tend to get boring, however aside from that everything else was straight to the point. Practice midterms were just like the exam, zybooks was really annoying to do, projects weren't bad as long as you start early. overall, enjoyed the class",
+          "date": "2024-12-19 03:27:32 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS211",
+          "comment": "The heavy workload is unnecessary, especially the last Zybooks where I learned nothing for 5+ hours right before finals. He has a great attitude, but the lectures can get a bit dull. Easy class if you focus and practice on your own time and especially don't cheat on projects (that's where you learn the most!)",
+          "date": "2024-12-10 03:01:37 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS211",
+          "comment": "I hate zybooks. Decent professor tho. Not sure why he has such a low rating.",
+          "date": "2024-11-21 04:21:14 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A-",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS211",
+          "comment": "Tbh idk why he gets so much hate. Every time I've gone up to him for help with a project, he's been really helpful. Also, he makes videos explaining the correct answers to every form (5+ forms) of every exam and to every practice exam. Honestly, he's putting in sm effort as a prof, and while the class is definitely challenging, he's supportive.",
+          "date": "2024-11-11 07:41:36 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "Extremely rude and aggressive whenever dealing with students. Always ready to rudely answer your questions or answer in a way to make you feel inferior or less intelligent. He just reads off the slides and doesn't do any examples or walk you though stuff. Again, he's very rude and inconsiderate and like most UIC profs just care about $ and research",
+          "date": "2024-03-13 21:19:07 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "C",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "Very hard class, and the professor did not make it any easier. Have fun reading and googling everything question you have.",
+          "date": "2024-03-11 21:27:01 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Incomplete",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS211",
+          "comment": "He was not sympathetic to the students' struggles/concerns until pretty much the entirety of the 211 class complained. Does give a lot of extra credit opportunities during labs, projects, etc. Overall, learned a lot of beneficial things in the class but the professor did come off pretty inconsiderate and borderline rude at times.",
+          "date": "2023-12-14 22:00:59 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "Bad professor - but you learn a lot because you get forced to teach yourself. ",
+          "date": "2023-12-13 20:22:48 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS211",
+          "comment": "cs211 is a hard class and scott made it tolerable and approachable",
+          "date": "2023-12-11 22:05:48 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B+",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "If you gonna be a lab rat  of the new cs 211 + scott go ahead but don't cry later.",
+          "date": "2023-12-09 19:49:42 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "B",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "DECENT class, TERRIBLE professor. His attitude and failure to be considerate at any extent made this semester harder than necessary. He is inconsiderate and insensitive. He resisted policy changes until he was forced to make changes after being proven wrong by the collective student response, happened all due to his inflexibility and ego. \n\n\n",
+          "date": "2023-12-08 22:37:14 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A+",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "Iv never seen a more inconsiderate professor in my life, he wasn't a good professor at all. Tough projects, lectures,labs, homework he made it seem like it was the only class we were taking at UIC. Scott was terrible and should never teach again.",
+          "date": "2023-12-07 04:46:19 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Rather not say",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS211",
+          "comment": "Very qualified, projects are not too bad if you start early. Tons of extra credit. He really knows what he is teaching on. Lots of homework, but it is useful, labs a re a bit tough, but do-able. If you put in effort there should be no issues.",
+          "date": "2023-12-07 00:02:06 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "trenches.",
+          "date": "2023-12-06 00:37:38 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Rather not say",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS211",
+          "comment": "Why was he even added to the cs department? \n",
+          "date": "2023-12-04 17:23:31 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 2,
+          "class": "CS211",
+          "comment": "This may just be my experience because I think its his first semester teaching 211 but the projects were extremely overwhelming. Nothing changed until a lot of students complained and things are a bit better now. He gives extra credit and he gives better explanations on the project descriptions. However this 3  cred class feels like 5 creds.",
+          "date": "2023-11-04 14:29:37 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Incomplete",
+          "helpfulRating": 2
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS107",
+          "comment": "This was CS 251 in summer 2023. Dr.Reckinger made the class as easy as possible given the short 8 weeks of instruction. The exams were exactly on what we learned and were similar to the practice exams. We are given everything we need to know for the 5 projects. ",
+          "date": "2023-08-22 03:14:02 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS107",
+          "comment": "This was CS 251 but RMP doesn't have that option, his lectures occasionally he would struggle on topics and couldn't explain it but he made 2.5 hour lectures go by fast and made accessing the materials really easy, the tests are the best example of learning from a study guide and projects are planned out and give time to complete.",
+          "date": "2023-08-04 17:07:46 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A-",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "IE312",
+          "comment": "He's very kind but it's so much work",
+          "date": "2023-05-01 21:28:56 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "B",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "Do not take this man. In just the last week, a hard homework assignment due Tuesday, we have the 3rd assessment on Wednesday, a take home exam that is coding heavy due Sunday, and then the Final exam that is due the next morning. He reads off the slides and is extremely unaccommodating and unhelpful. Exams are difficult. Worst professor at UIC.",
+          "date": "2023-04-30 23:56:10 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "Avoid him",
+          "date": "2022-11-24 22:51:28 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "Be prepared to spend your entire weekend for working on his homeworks  and quizzes. The class is heavily dependent on lectures, but all he does is read the slides. He doesn't care about feedback from students and laughs it off. Never replies to emails. ",
+          "date": "2022-11-01 17:29:05 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "D",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "Can't believe I'm struggling in a class which is supposed to be very easy. The amount of work he assign is ridiculous. IDK what's going through his mind.  Like, this is the only class we are taking and we should care of?",
+          "date": "2022-10-31 00:56:02 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "NEVER, I repeat NEVER take IE 342 with Scott. He is just trying to makes student's lives hard. His homeworks are lengthy asf ( as if this is the only class we are taking). Very annoying that he expects a lot from the students.",
+          "date": "2022-10-25 00:53:50 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Not sure yet",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "what is going through this mans mind. His homework is so long you'll be spending the rest of your week working on his homework. I get it, its a online class & a 300 level class but to horde us with this much amount of busy work is crazy at that point I'm not learning anything I'm just trying to finish the homework to get it done by the due date smh",
+          "date": "2022-10-18 16:26:28 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Not sure yet",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "His lectures what is on his slideshow so you could watch the videos instead. The issue however is that his homework is sometimes nothing like what he teaches in class. He gives homework from the textbook and problems he made himself. The ones he makes himself are really bad, but quiz r easier. ",
+          "date": "2022-09-25 00:22:26 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Not sure yet",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 2,
+          "class": "IE342",
+          "comment": "Do not take this class with him unless u want to end up spending 12 hours a week on hw alone. So much hw given out each week it's honestly insane. Not to mention you have to record ur self explaining answers?? Try not to take it with Scott. To his credit the actual lectures are fine but amount of hw is insane.",
+          "date": "2022-09-18 19:22:24 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Not sure yet",
+          "helpfulRating": 2
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "He's almost like a bully. Gives a lot homework due every Sunday w/ quiz every Monday (worths 25% each). makes us record how we did the quiz including that since this class was online, there's module review questions due every Friday which is worth 10%.He substituted projects for exams which are worth 15% each. Would not recommend this class w/ him.",
+          "date": "2022-09-17 21:52:00 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Not sure yet",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS107",
+          "comment": "Structured class. Lots of help. He never put in the grade for the final exam. ",
+          "date": "2022-05-15 14:37:38 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "A+",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS107",
+          "comment": " Kind And Understanding, So Helpful, Amazing, Laudable ",
+          "date": "2022-04-25 17:54:59 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "ME312",
+          "comment": "Controls is a difficult subject, but Prof. R makes sure to take it step by step so that we can keep up with it. Every week there is an online MC review quiz, a homework assignment, and an in class quiz. It sounds like a lot of work, but if you keep up with it you'll have an A. Exams are also pretty easy. Very straightforward class.",
+          "date": "2022-01-10 17:56:05 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "ME312",
+          "comment": "He's a very caring professor and ensures that he's clear on what he's teaching before he moves on. He provides lecture recordings as well as the pre-recorded videos from online classes. Willing to help you understand in the simplest way. Straight forward and clear about expectations and clearly wants you to succeed.",
+          "date": "2021-12-06 18:08:03 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B+",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS107",
+          "comment": "I really like how his class is structed, its pretty much the same thing every week. zybooks hw, quiz, lab and project. He is a great teacher and for online at least, there are no big exams. Just two open ended projects that he fully prepares you for. He also offers extra credit every week if you attend the optional coding sessions. Take him!",
+          "date": "2020-11-18 06:54:03 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS107",
+          "comment": "Very good teacher. Explains material thoroughly. Have to admit that for an intro class, It is hard for first time programmers, but if you do work, you'll get through.",
+          "date": "2020-11-03 06:44:01 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS107",
+          "comment": "He's a good prof but the material is just hard. The first half of the course is insanely easy but randomly midway through(week 9?) it skyrockets in difficulty. The projects are insanely hard to the point where half the class doesn't do them. If you have a lab later in the week, good luck getting any help on projects. Tests are okay at least.",
+          "date": "2020-01-14 17:46:02 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS107",
+          "comment": "He great at teaching but makes you put in the work. He gives out study guides which are basically the exams.",
+          "date": "2019-12-18 22:43:16 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "ME312",
+          "comment": "By no means is he a controls engineer. Can not teach this class at all. Your better of reading the textbook.",
+          "date": "2019-12-18 09:58:29 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "ME312",
+          "comment": "I enjoyed Reckinger, but beware; he practically teaches from the textbook, ans seems to not be very good at figuring out when/why students don't understand things as well as him. If you have a good sense for math and ask questions then it can be fine, but if not then class can be a struggle.",
+          "date": "2019-12-14 20:11:04 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "A",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS107",
+          "comment": "Please read this carefully. This professor thinks that students have a bachelor's degree in computer science. If you have to take him, and you probably do, get ready to teach yourself the course. The zybook used in this class does not give detail, which is why most students had hard times on the exams. Get ready to put in TIME and effort. TIME.",
+          "date": "2019-12-05 16:23:50 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Not sure yet",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "ME312",
+          "comment": "He has no specilization in control sytems. Basically copies from Berniker's notes which he does not understand. Comes unprepared to lecture and races through the board. Has anger issues a lot and takes it out on the class. His exams are very tough and do not at all reflect the homework. Other UIC professors have said bad things about his teaching.",
+          "date": "2019-11-24 18:36:40 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "ME312",
+          "comment": "Worst professor.",
+          "date": "2019-05-27 01:01:53 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "CS107",
+          "comment": "Heavy workload. But I did learn many in class. To know basic knowledge better, I do need many practice.",
+          "date": "2019-05-17 20:01:12 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "Not sure yet",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE312",
+          "comment": "He tried,he really did. The concepts in this class are actually pretty straightforward and easy after a couple of amazing youtube videos(Brian Douglas). In the beginning the class is nice and understandable and but towards the 2nd exam the class overall become messy. He doesn't do a great job explaining complex topics and expects you just &quot;know it&quot;",
+          "date": "2019-05-16 03:09:40 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "ME312",
+          "comment": "One of the worst professors in ME. All he does is scribble through the textbook and confuses himself and the whole class. This was his first time teaching 312. His grading rubric is one of the most strict I have seen. If it is not on the rubric then no points and he also does not give partial credit. Class is grade based on exams only and no curve.",
+          "date": "2019-05-14 07:30:27 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS107",
+          "comment": "Good professor; class concepts were very difficult for me. Tried my hardest by at least going for tutoring. Still performed poorly. The tests and projects were both complex. Honestly, knowing that the tests contain code writing, labs should be replaced with discussion so we get better experience at writing the code out. All I got was frustration.",
+          "date": "2019-05-14 03:41:53 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "Rather not say",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS107",
+          "comment": "I had some experience with C and C++ before taking this course. For a beginner level course, it seemed hard, not for me but for someone who really learns to program for the first time. The labs were hard. The tests are really tricky, and even though I felt confident with the material it was still tricky. I liked it because it was challenging.",
+          "date": "2019-05-10 06:23:27 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "A+",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "IE342",
+          "comment": "He has a teaching style similar to Dr. Shulman (take that as you may). He gives a clear idea of what is expected on exams, and his hw is a lot, but does a good job in practicing the concepts, and theyre due weekly. I honestly think hes really good at explaining concepts but I guess I'm in the minority here. Go to class and do the hw and you good.",
+          "date": "2019-05-08 20:44:19 +0000 UTC",
+          "difficultyRating": 2,
+          "grade": "A",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS107",
+          "comment": "Reckinger is a very passionate teacher however his courses are overloaded with his pride. He likes to give students labs and projects that are very hard. These labs are hard because there is little guidance within and outside of class. He provides also provides a review guide without an answer key because that is what he believes in. Not the best.",
+          "date": "2019-03-25 23:22:58 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "B",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "IE342",
+          "comment": "Reckinger makes this class way harder than it needs to be. All he does is copy examples of equations from the book and does not explain it very well. Unfortunately he seems to think this is the only class as IEs we have to take.",
+          "date": "2019-02-14 00:17:21 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 4,
+          "class": "CS107",
+          "comment": "He does a solid job in presenting the material but be aware that he does try to trick you on his lectures. As long as you study hard on his study guides, you should handle his exams just fine. My biggest complaint however is how many of the students had a hard time on his in lab exams. The projects were great but there were some that were very hard",
+          "date": "2018-12-26 15:24:32 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "B",
+          "helpfulRating": 4
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 3,
+          "class": "CS107",
+          "comment": "He is nice prof. This class is super hard, constant work for intro class and never got good grade. I never seen this kind of class in my life. Labs, project and exams was hard. The only thing that I got from this class is stress. the class might discharge you like me, but don't give up b/c this is the only class you will straggle.",
+          "date": "2018-12-21 02:24:25 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "C",
+          "helpfulRating": 3
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "IE342",
+          "comment": "My favorite professor at UIC! Sure the homework and exams were all very difficult due to the amount of new application questions and lack of time to finish exams, but he curves exam grades generously so that the avg grade was a B. Lectures were quite clear and his in class notes are essential for passing the class",
+          "date": "2018-12-20 13:23:38 +0000 UTC",
+          "difficultyRating": 4,
+          "grade": "B",
+          "helpfulRating": 5
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 1,
+          "class": "CS107",
+          "comment": "Would not recommend at all. Constant work for an intro class. Had to spend multiple hours a day on work just to receive poor grades. Lab every week and they are graded very roughly. Spend a lot of time in lectures learning about history of computers. Iclicker needed for every class. Would never take again.",
+          "date": "2018-12-12 23:43:28 +0000 UTC",
+          "difficultyRating": 5,
+          "grade": "D",
+          "helpfulRating": 1
+        }
+      },
+      {
+        "node": {
+          "clarityRating": 5,
+          "class": "IE342",
+          "comment": "Dr. Reckinger did a really good job teaching this class. Uses a lot of motivating examples for the material. The content can be a bit heavy at times, but looking at the lecture capture (and the book) always helped me out considering his attendance policy. Homework is graded on completion and effort, and he posts solutions right away. Recommended.",
+          "date": "2018-12-07 19:28:43 +0000 UTC",
+          "difficultyRating": 3,
+          "grade": "",
+          "helpfulRating": 5
+        }
+      }
+    ]
+  },
+  "school": {
+    "name": "University of Illinois Chicago"
+  }
+}
